@@ -1,11 +1,7 @@
 streamlit
-sounddevice                   
-astunparse                                     
+sounddevice                                                     
 audioread                      
-librosa                      
-matplotlib                                   
+librosa                                                 
 numpy                        
-tensorflow                   
-tensorflow_intel             
-tensorflow-io-gcs-filesystem            
+tensorflow                          
 wavio                        
