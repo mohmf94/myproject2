@@ -1,6 +1,6 @@
 streamlit==1.10.0
 sounddevice==0.5.3
-audioread==3.0.0
+audioread
 librosa==0.8.1
 numpy==1.21.4
 tensorflow==2.8.0
