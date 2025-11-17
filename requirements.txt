@@ -1,6 +1,5 @@
 streamlit
-tensorflow>=2.10
+tensorflow==2.12.0
 librosa
-sounddevice
-wavio
 numpy
+soundfile
