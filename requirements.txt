@@ -1,13 +1,6 @@
 streamlit
-sounddevice
-audioread
+tensorflow>=2.10
 librosa
-numpy
-tensorflow
+sounddevice
 wavio
-portAudio
-tempfile
-matplotlib
-tempfile
-tensorflow.image
-resize
+numpy
