@@ -6,3 +6,8 @@ numpy
 tensorflow
 wavio
 portAudio
+tempfile
+matplotlib
+tempfile
+tensorflow.image
+resize
