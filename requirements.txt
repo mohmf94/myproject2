@@ -1,8 +1,8 @@
-streamlit==1.10.0
-sounddevice==0.5.3
+streamlit
+sounddevice
 audioread
-librosa==0.8.1
-numpy==1.21.4
-tensorflow==2.8.0
-wavio==0.0.4
-portAudio==19.6.0
+librosa
+numpy
+tensorflow
+wavio
+portAudio
